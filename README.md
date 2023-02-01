@@ -1,4 +1,10 @@
 ### Hi there 👋
+### Let me introduce my self
+
+Hi I am socap124212
+I want to be AI data sicentist usin python
+So I am working on using python, SQL, and other method that is needed
+I love to watch movie and listening music.
 
 <!--
 **socpa124212/socpa124212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
