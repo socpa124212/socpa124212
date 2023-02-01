@@ -8,6 +8,14 @@ I am working on using python, SQL, and other method that is needed
 
 I love to watch movie and listening music.
 
+### I can Speak and use...
+-Korean
+-English
+-Python
+-Java
+-C
+-SQL
+-Verilog
 <!--
 **socpa124212/socpa124212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
