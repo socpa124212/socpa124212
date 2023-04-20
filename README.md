@@ -15,6 +15,7 @@ I love to watch movie and listening music.
 -Java
 -C
 -SQL
+quite a bit(?)
 -Verilog
 <!--
 **socpa124212/socpa124212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
